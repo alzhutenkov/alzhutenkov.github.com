@@ -18167,7 +18167,7 @@ Zk:function Zk(a){this.a=a},
 Zl:function Zl(){},
 kQ:function kQ(a,b){this.a=a
 this.b=b},
-akv(){var s="http://soldapp.zhutenkov.com:443/api"
+akv(){var s="https://soldapp.zhutenkov.com/api"
 return new A.FU($,$,new A.Zk(new A.lR(s)),new A.x2(new A.lR(s)))},
 FU:function FU(a,b,c,d){var _=this
 _.A2$=a
@@ -62375,7 +62375,7 @@ is(){return A.az(["msg",this.a,"status",this.b],t.N,t.z)}}
 A.fe.prototype={
 gbL(a){return this.b}}
 A.hd.prototype={
-ar(){return new A.uN($.lO(),new A.Ef($,$,$,new A.x2(new A.lR("http://soldapp.zhutenkov.com:443/api"))),B.j)}}
+ar(){return new A.uN($.lO(),new A.Ef($,$,$,new A.x2(new A.lR("https://soldapp.zhutenkov.com/api"))),B.j)}}
 A.uN.prototype={
 aI(){this.bc()},
 K(a,b){return A.pW(new A.TR(this,b))},
@@ -62432,7 +62432,7 @@ A.Lf.prototype={}
 A.Lg.prototype={}
 A.v6.prototype={
 ar(){var s=null,r="https://geocode-maps.yandex.ru/1.x"
-return new A.v8(A.lj(s),A.lj(s),A.lj(s),A.lj(s),A.lj(s),A.b([$.aom()],t.VS),new A.WG(A.b([],t.YM),new A.F1(A.U_(A.RU(r,s,s,s)))),new A.F1(A.U_(A.RU(r,s,s,s))),new A.VG(new A.lR("http://soldapp.zhutenkov.com:443/api")),B.j)}}
+return new A.v8(A.lj(s),A.lj(s),A.lj(s),A.lj(s),A.lj(s),A.b([$.aom()],t.VS),new A.WG(A.b([],t.YM),new A.F1(A.U_(A.RU(r,s,s,s)))),new A.F1(A.U_(A.RU(r,s,s,s))),new A.VG(new A.lR("https://soldapp.zhutenkov.com/api")),B.j)}}
 A.v8.prototype={
 K(a,b){var s=this,r=null,q=s.y,p=t.p
 return A.alj(r,new A.cB(B.F,r,r,new A.dP(B.eG,A.e8(A.b([new A.cB(B.F,r,r,A.e8(A.b([new A.u2(s.z,r),A.bJ(r,20,r),A.db(A.b([A.ec(A.ll(!0,B.an,!1,r,s.f,r,r,r,2,A.pu(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"\u041a\u043e\u043b\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043a\u043e\u043c\u043d\u0430\u0442 (0 \u0434\u043b\u044f \u0441\u0442\u0443\u0434\u0438\u0438)",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),!0,!0,!0,r,!1,r,q,r,new A.hM(2,!0,!0),r,!0,r,1,r,!1,"\u2022",r,r,r,r,!1,r,r,B.bg,r,r,r,r,r,r,r,B.H,r,B.bq,r,r,r),1)],p),B.D,B.E,B.w),A.bJ(r,20,r),A.db(A.b([A.ec(A.ll(!0,B.an,!1,r,s.d,r,r,r,2,A.pu(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"\u041e\u0431\u0449\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),!0,!0,!0,r,!1,r,q,r,new A.hM(2,!0,!0),r,!0,r,1,r,!1,"\u2022",r,r,r,r,!1,r,r,B.bg,r,r,r,r,r,r,r,B.H,r,B.bq,r,r,r),1),A.bJ(r,r,20),A.ec(A.ll(!0,B.an,!1,r,s.e,r,r,r,2,A.pu(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"\u0416\u0438\u043b\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),!0,!0,!0,r,!1,r,q,r,new A.hM(2,!0,!0),r,!0,r,1,r,!1,"\u2022",r,r,r,r,!1,r,r,B.bg,r,r,r,r,r,r,r,B.H,r,B.bq,r,r,r),1)],p),B.D,B.E,B.w),A.bJ(r,20,r),A.db(A.b([A.ec(A.ll(!0,B.an,!1,r,s.r,r,r,r,2,A.pu(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"\u042d\u0442\u0430\u0436",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),!0,!0,!0,r,!1,r,q,r,new A.hM(2,!0,!0),r,!0,r,1,r,!1,"\u2022",r,r,r,r,!1,r,r,B.bg,r,r,r,r,r,r,r,B.H,r,B.bq,r,r,r),1),A.bJ(r,r,20),A.ec(A.ll(!0,B.an,!1,r,s.x,r,r,r,2,A.pu(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"\u042d\u0442\u0430\u0436\u043d\u043e\u0441\u0442\u044c",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),!0,!0,!0,r,!1,r,q,r,new A.hM(2,!0,!0),r,!0,r,1,r,!1,"\u2022",r,r,r,r,!1,r,r,B.bg,r,r,r,r,r,r,r,B.H,r,B.bq,r,r,r),1)],p),B.D,B.E,B.w),A.bJ(r,64,r),A.db(A.b([A.jf(A.cz("\u041e\u0446\u0435\u043d\u0438\u0442\u044c",r,r,r,r,r,r),s.gX0(),A.fw(r,r,r,r,r,r,r,r,new A.aA(B.ka,t.FG),r,r,r,r,new A.aA(new A.cy(A.CS(27),B.p),t.M1),r,r,r,r,r))],p),B.D,B.bz,B.w)],p),B.D,B.E,B.w),r)],p),B.D,B.bz,B.w),r),r))},
@@ -62760,7 +62760,7 @@ A.aei.prototype={
 $1(a){},
 $S:431}
 A.ye.prototype={
-ar(){return new A.IW($.lO(),new A.IX($,$,$,new A.x2(new A.lR("http://soldapp.zhutenkov.com:443/api"))),B.j)}}
+ar(){return new A.IW($.lO(),new A.IX($,$,$,new A.x2(new A.lR("https://soldapp.zhutenkov.com/api"))),B.j)}}
 A.IW.prototype={
 aI(){this.bc()
 this.e.dC()},
