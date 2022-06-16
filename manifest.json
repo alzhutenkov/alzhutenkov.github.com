@@ -1,6 +1,6 @@
 {
-    "name": "telecom",
-    "short_name": "telecom",
+    "name": "soldapp",
+    "short_name": "soldapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
