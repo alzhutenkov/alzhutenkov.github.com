@@ -70677,13 +70677,16 @@ while(true)switch(s){case 0:p.seH(!0)
 s=3
 return A.a_(p.a.uW(new A.a1e(a,"phone_login",b)),$async$pM)
 case 3:o=d
+p.seH(!1)
 n=o.b
 m=n==null
 l=m?null:n.a
 if(l==null)l=""
 k=m?null:n.b
 if(k==null)k=""
-n=$.pF()
+if(l.length===0){q=o
+s=1
+break}n=$.pF()
 m=A.b(n.a,"_storage")
 j=t.z
 m.wo(A.ao(["AUTH_TOKEN",l],j,m.$ti.c))
@@ -70694,7 +70697,6 @@ s=4
 return A.a_(p.b.bG(0),$async$pM)
 case 4:i=d
 $.pG().b8(0,i.b)
-p.seH(!1)
 q=o
 s=1
 break
