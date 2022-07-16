@@ -20637,7 +20637,7 @@ ar4(a){var s=J.al(a)
 return new A.nQ(A.aT(s.h(a,"token")),A.aT(s.h(a,"refresh_token")))},
 nQ:function nQ(a,b){this.a=a
 this.b=b},
-apl(){var s="https://soldapp.zhutenkov.com/api"
+apl(){var s="https://app.soldapp.ru/api"
 return new A.Hp($,$,new A.a1g(new A.jV(s)),new A.yK(new A.jV(s)))},
 Hp:function Hp(a,b,c,d){var _=this
 _.Cc$=a
@@ -70900,7 +70900,7 @@ eZ(){return A.ao(["msg",this.a,"status",this.b],t.N,t.z)}}
 A.dZ.prototype={
 gbP(a){return this.b}}
 A.h8.prototype={
-ad(){return new A.w3($.mH(),new A.FM($,$,$,new A.yK(new A.jV("https://soldapp.zhutenkov.com/api"))),B.l)}}
+ad(){return new A.w3($.mH(),new A.FM($,$,$,new A.yK(new A.jV("https://app.soldapp.ru/api"))),B.l)}}
 A.w3.prototype={
 au(){this.aQ()},
 I(a,b){return A.nZ(new A.Wq(this,b))},
@@ -70964,7 +70964,7 @@ A.N5.prototype={}
 A.qq.prototype={}
 A.ws.prototype={
 ad(){var s=null,r="https://geocode-maps.yandex.ru/1.x",q=$.aQ()
-return new A.ww(new A.dz(B.aH,q),new A.dz(B.aH,q),new A.dz(B.aH,q),new A.dz(B.aH,q),new A.dz(B.aH,q),A.a([$.aua()],t.VS),new A.Zy(A.a([],t.YM),new A.Gz(A.aks(A.aka(r,s,s,s)))),new A.Gz(A.aks(A.aka(r,s,s,s))),new A.Yw(new A.jV("https://soldapp.zhutenkov.com/api")),B.l)}}
+return new A.ww(new A.dz(B.aH,q),new A.dz(B.aH,q),new A.dz(B.aH,q),new A.dz(B.aH,q),new A.dz(B.aH,q),A.a([$.aua()],t.VS),new A.Zy(A.a([],t.YM),new A.Gz(A.aks(A.aka(r,s,s,s)))),new A.Gz(A.aks(A.aka(r,s,s,s))),new A.Yw(new A.jV("https://app.soldapp.ru/api")),B.l)}}
 A.ww.prototype={
 I(a,b){var s=this,r=null,q=s.x,p=t.p
 return A.alm(r,B.lr,new A.cK(B.G,r,r,new A.dU(B.lb,A.d2(A.a([new A.cK(B.G,r,r,A.d2(A.a([new A.vq(s.y,r),A.bO(r,20,r),A.cz(A.a([A.dH(A.kQ(!0,B.aE,!1,r,s.f,r,r,r,2,A.nz(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"\u041a\u043e\u043b\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043a\u043e\u043c\u043d\u0430\u0442 (0 \u0434\u043b\u044f \u0441\u0442\u0443\u0434\u0438\u0438)",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),!0,r,!0,r,!1,r,q,r,new A.hA(2,!0,!0),r,r,1,r,r,!1,"\u2022",r,r,r,r,r,!1,r,r,B.bA,r,r,B.aQ,B.aK,r,r,r,r,r,B.M,r,B.bK,r,r,r),1)],p),B.C,B.B,B.u),A.bO(r,20,r),A.cz(A.a([A.dH(A.kQ(!0,B.aE,!1,r,s.d,r,r,r,2,A.nz(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"\u041e\u0431\u0449\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),!0,r,!0,r,!1,r,q,r,new A.hA(2,!0,!0),r,r,1,r,r,!1,"\u2022",r,r,r,r,r,!1,r,r,B.bA,r,r,B.aQ,B.aK,r,r,r,r,r,B.M,r,B.bK,r,r,r),1),A.bO(r,r,20),A.dH(A.kQ(!0,B.aE,!1,r,s.e,r,r,r,2,A.nz(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"\u0416\u0438\u043b\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),!0,r,!0,r,!1,r,q,r,new A.hA(2,!0,!0),r,r,1,r,r,!1,"\u2022",r,r,r,r,r,!1,r,r,B.bA,r,r,B.aQ,B.aK,r,r,r,r,r,B.M,r,B.bK,r,r,r),1)],p),B.C,B.B,B.u),A.bO(r,20,r),A.cz(A.a([A.dH(A.kQ(!0,B.aE,!1,r,s.r,r,r,r,2,A.nz(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"\u042d\u0442\u0430\u0436",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),!0,r,!0,r,!1,r,q,r,new A.hA(2,!0,!0),r,r,1,r,r,!1,"\u2022",r,r,r,r,r,!1,r,r,B.bA,r,r,B.aQ,B.aK,r,r,r,r,r,B.M,r,B.bK,r,r,r),1),A.bO(r,r,20),A.dH(A.kQ(!0,B.aE,!1,r,s.w,r,r,r,2,A.nz(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"\u042d\u0442\u0430\u0436\u043d\u043e\u0441\u0442\u044c",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),!0,r,!0,r,!1,r,q,r,new A.hA(2,!0,!0),r,r,1,r,r,!1,"\u2022",r,r,r,r,r,!1,r,r,B.bA,r,r,B.aQ,B.aK,r,r,r,r,r,B.M,r,B.bK,r,r,r),1)],p),B.C,B.B,B.u),A.bO(r,64,r),A.cz(A.a([A.iU(A.bS("\u041e\u0446\u0435\u043d\u0438\u0442\u044c",r,r,r,r,r,r,r),s.gYn(),A.f8(r,r,r,r,r,r,r,r,new A.aD(B.jc,t.FG),r,r,r,r,new A.aD(new A.cf(A.jZ(27),B.r),t.M1),r,r,r,r,r,r))],p),B.C,B.fH,B.u)],p),B.C,B.B,B.u),r)],p),B.C,B.fH,B.u),r),r))},
@@ -71342,7 +71342,7 @@ A.ajw.prototype={
 $1(a){},
 $S:476}
 A.zV.prototype={
-ad(){return new A.Kx($.mH(),new A.Ky($,$,$,new A.yK(new A.jV("https://soldapp.zhutenkov.com/api"))),B.l)}}
+ad(){return new A.Kx($.mH(),new A.Ky($,$,$,new A.yK(new A.jV("https://app.soldapp.ru/api"))),B.l)}}
 A.Kx.prototype={
 au(){this.aQ()
 this.e.dL()},
@@ -71461,7 +71461,7 @@ I(a,b){var s=this,r=null,q=s.x
 return A.hg(r,A.bV(r,A.d2(A.a([A.dH(A.bV(B.G,A.bS(s.d,r,4,r,r,s.as,B.qu,r),B.n,r,r,r,r,r,r,new A.aL(2,0,2,0),r),1),A.bV(r,r,B.n,s.y,r,r,1.1,r,r,r,1/0)],t.p),B.C,B.B,B.u),B.n,r,r,new A.cG(s.w,r,new A.dp(B.r,new A.da(q,1,B.bx),B.r,new A.da(q,1,B.bx)),r,r,r,B.aj),s.r,r,r,B.af,s.f),B.ae,!1,r,r,r,r,r,r,r,r,r,r,r,s.e,r,r,r,r,r,r)}}
 A.Ao.prototype={
 ad(){var s=t.eY,r=t.s
-return new A.Ld(new A.Li($,$,$,new A.Lk(A.a([],s),new A.Lf(new A.jV("https://soldapp.zhutenkov.com/api"))),A.a(["\u0414\u0430\u0442\u0430","\u0421\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c","\u0412\u044b\u043a\u0443\u043f \u043e\u0442","\u0412\u044b\u043a\u0443\u043f \u0434\u043e","\u041e\u0446\u0435\u043d\u043a\u0430: \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c","\u041e\u0446\u0435\u043d\u043a\u0430: \u0448\u0430\u043d\u0441","\u041e\u0446\u0435\u043d\u043a\u0430: 90%","\u041e\u0446\u0435\u043d\u043a\u0430: 10%","S \u043e\u0431\u0449.","/\u043a\u0432.\u043c.","\u0410\u0434\u0440\u0435\u0441","\u042d\u0442\u0430\u0436","\u0422\u0435\u043b\u0435\u0444\u043e\u043d\u044b"],r),A.a([],r),A.a([],s),A.a([],t.rj)),A.aqk(),B.l)}}
+return new A.Ld(new A.Li($,$,$,new A.Lk(A.a([],s),new A.Lf(new A.jV("https://app.soldapp.ru/api"))),A.a(["\u0414\u0430\u0442\u0430","\u0421\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c","\u0412\u044b\u043a\u0443\u043f \u043e\u0442","\u0412\u044b\u043a\u0443\u043f \u0434\u043e","\u041e\u0446\u0435\u043d\u043a\u0430: \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c","\u041e\u0446\u0435\u043d\u043a\u0430: \u0448\u0430\u043d\u0441","\u041e\u0446\u0435\u043d\u043a\u0430: 90%","\u041e\u0446\u0435\u043d\u043a\u0430: 10%","S \u043e\u0431\u0449.","/\u043a\u0432.\u043c.","\u0410\u0434\u0440\u0435\u0441","\u042d\u0442\u0430\u0436","\u0422\u0435\u043b\u0435\u0444\u043e\u043d\u044b"],r),A.a([],r),A.a([],s),A.a([],t.rj)),A.aqk(),B.l)}}
 A.Ld.prototype={
 au(){this.aQ()
 this.d.bG(0)},
@@ -71570,7 +71570,7 @@ $S:10}
 A.Rq.prototype={}
 A.An.prototype={
 ad(){var s=t.eY
-return new A.Ll(new A.Lg($,$,$,new A.Lk(A.a([],s),new A.Lf(new A.jV("https://soldapp.zhutenkov.com/api"))),A.a([],s)),B.l)}}
+return new A.Ll(new A.Lg($,$,$,new A.Lk(A.a([],s),new A.Lf(new A.jV("https://app.soldapp.ru/api"))),A.a([],s)),B.l)}}
 A.Ll.prototype={
 au(){this.aQ()
 this.d.bG(0)},
